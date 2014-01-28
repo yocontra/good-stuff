@@ -1,0 +1,14 @@
+{
+  "name": "Phoenix, AZ",
+  "meta": {
+    "name": "Phoenix",
+    "country": "US",
+    "featureClass": "P",
+    "featureCode": "PPLA",
+    "adminCode": "AZ",
+    "population": 1445632,
+    "lat": 33.44838,
+    "lon": -112.07404,
+    "from": "phoenix"
+  }
+}

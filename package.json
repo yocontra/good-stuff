@@ -1,0 +1,24 @@
+{
+  "name": "good-stuff",
+  "description": "Curated events/places",
+  "version": "0.0.1",
+  "homepage": "http://github.com/Contra/good-stuff",
+  "repository": "git://github.com/Contra/good-stuff.git",
+  "author": "Contra <contra@wearefractal.com> (http://contra.io/)",
+  "main": "./index.js",
+  "dependencies": {
+    "require-dir": "~0.1.0",
+    "placename": "~0.2.0",
+    "graceful-fs": "~2.0.1",
+    "async": "~0.2.10"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Contra/good-stuff/raw/master/LICENSE"
+    }
+  ]
+}
